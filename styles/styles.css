@@ -1,0 +1,8 @@
+a {
+  display: block;
+  font-size: 18px;
+}
+.image-styling {
+  max-width: 100%;
+  height: auto;
+}
